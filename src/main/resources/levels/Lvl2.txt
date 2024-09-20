@@ -1,0 +1,14 @@
+LEVEL 2
+3
+W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,
+W,S,R,S,S,D,S,S,S,S,S,S,S,S,W,
+W,S,R,S,S,D,R,S,S,S,S,S,S,S,W,
+W,S,S,S,S,S,S,S,S,R,S,R,S,S,W,
+W,S,S,S,S,S,S,S,S,R,S,S,R,S,W,
+W,S,S,S,I,S,S,S,S,S,S,S,S,S,W,
+W,S,S,S,R,S,S, ,S,S,S,S,S,S,W,
+W,S,S,D,R,S,S,S,S,S,S,S,S,S,W,
+W,S,R,D,S,S,S,S,S,S,S,S,S,S,W,
+W,S,S,R,S,S,S, ,S,S,S,S,E,S,W,
+W,S,S,S,S,R,R,S,S,S,S,S,S,S,W,
+W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,

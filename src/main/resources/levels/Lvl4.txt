@@ -1,0 +1,17 @@
+LEVEL 4
+10
+W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,
+W,R,S,S,S,S,S,R,R,S,S,S,S,S,S,S,R,S,S,R,S,S,S,S,S,S,R,W,
+W,S,S,D,S,S,D,S,R,S,S,S,S,S,I,S,S,S,S,S,S,R,S,S,S,S,R,W,
+W,S,S,S,S,S,S,D,R,D,S,S,R,S,S,S,S,S,S,S,S,S,S,R,S,S,S,W,
+W,D,S,S,S,S,S,R,S,R,S,S,R,S,S,S,S,S,S,S,S,R,S,S,S,D,S,W,
+W,R,S,S,S,S,S,S,S,S,R,S,S,S,S,S,R,S,S,S,D,S,S,S,S,S,S,W,
+W,R,R,S,S,R,S,S,S,S,S,S,S,S,R,S,S,S,S,S,S,R,S,R,R,S,D,W,
+W,S,D,R,S,S,S,S,S,R,S,R,R,S,S,S,S,S,S,S,S,R,S,R,R,S,S,W,
+W,S,S,S,S,S,S,D,S,S,S,S,S,S,D,S,R,S,S,S,S,R,S,S,R,S,S,W,
+W,R,S,R,S,S,S,S,S,S,S,S,S,S,D,S,R,S,S,S,S,R,S,S,R,S,S,W,
+W,S,R,S,S,S,S,S,S,S,S,R,R,S,R,S,S,D,S,S,S,S,R,S,S,S,R,W,
+W,S,S,S,S,S,S,S,S,S,S,R,R,S,R,S,S,R,S,S,S,S,S,S,S,S,S,W,
+W,S,S,E,R,S,R,S,S,S,S,S,S,S,R,S,S,R,S,S,S,S,S,S,S,S,R,W,
+W,S,S,S,R,S,R,S,S,S,D,S,S,S,S,R,S,S,S,R,S,S,S,S,R,S,S,W,
+W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,W,

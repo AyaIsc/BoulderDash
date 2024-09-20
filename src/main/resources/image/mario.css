@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'mario';
+    src: url('file:src/main/java/g58414/atlg/boulder/image/Super-Mario-World.ttf');
+}
+
+.label {
+    -fx-font-family: 'mario';
+    -fx-font-size: 20;
+}
+
+.button .text {
+    -fx-font-family: 'mario';
+}
+.mario
+{
+    -fx-font-family: "mario";
+}

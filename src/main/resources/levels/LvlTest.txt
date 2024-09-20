@@ -1,0 +1,8 @@
+LEVEL 0
+1
+W,W,W,W,W,W,W,W,W,
+W,R,S,S,S,S,S,D,W,
+W,R,S,D,I,R, ,D,W,
+W,S,S,D,S,S,S,R,W,
+W,E,S,R,S,S,S,D,W,
+W,W,W,W,W,W,W,W,W,
